@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/back"
+        android:title="Back"
+        android:icon="@drawable/icons8_back_512px_2"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/space"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/space1"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/space2"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/space3"
+        android:title=""
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/würfel"
+        android:title="randomImage"
+        android:icon="@drawable/icons8_dice_96px"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/pickcolor"
+        android:title="Pick Color"
+        android:icon="@drawable/icons8_circle_96px"
+        app:showAsAction="always"/>
+
+
+</menu>

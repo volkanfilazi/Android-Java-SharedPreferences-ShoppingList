@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Einkaufslisten</string>
+    <string name="einkaufslistenName"></string>
+
+    <string name="einkaufslisten">Einkaufslisten</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="book">Book</string>
+    <string name="car">Car</string>
+    <string name="bike">Bike</string>
+
+
+    <string-array name="icons">
+        <item>@string/book</item>
+        <item>@string/bike</item>
+        <item>@string/car</item>
+    </string-array>
+
+
+</resources>
